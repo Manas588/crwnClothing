@@ -1,2 +1,0 @@
-# crwnClothing
-Created with CodeSandbox
